@@ -1,0 +1,11 @@
+{
+  "model": "Random Forest",
+  "parameters": {
+    "model__min_samples_leaf": 1,
+    "model__n_estimators": 160
+  },
+  "CV RMSE": 3.45560036162628,
+  "R2": 0.9638977067447891,
+  "RMSE": 3.236009618615713,
+  "MAE": 2.321320304336464
+}

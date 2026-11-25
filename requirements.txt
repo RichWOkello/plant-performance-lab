@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn==1.8.0
+ucimlrepo
+jupyter
+joblib
+streamlit
+anthropic
+python-dotenv
