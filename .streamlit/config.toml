@@ -1,9 +1,13 @@
 [theme]
-primaryColor="#087F8C"
-backgroundColor="#F5F8FA"
-secondaryBackgroundColor="#E4EDF2"
-textColor="#153247"
-font="sans serif"
+base = "light"
+primaryColor = "#47C5BE"
+backgroundColor = "#F7FBFF"
+secondaryBackgroundColor = "#EEF5FB"
+textColor = "#16324A"
+font = "sans serif"
+
+[client]
+toolbarMode = "minimal"
 
 [server]
-port = 8501
+runOnSave = true
